@@ -35,7 +35,6 @@ public class WelcomeActivity extends AppCompatActivity {
         dotsLayout = findViewById(R.id.layoutDots);
         btnSkip = findViewById(R.id.btn_skip);
         btnNext = findViewById(R.id.btn_next);
-
         layouts = new int[]{
                 R.layout.welcome_slide1,
                 R.layout.welcome_slide2,
